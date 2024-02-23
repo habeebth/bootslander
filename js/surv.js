@@ -198,5 +198,4 @@ function saveInfo(){
     }).setInfo(input1,input2,input3,input4,input5,input6,input7,input8,input9,input10)
 }
 </script>
-<!-- ***** Sweetaler 2011 ***** -->
-<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
